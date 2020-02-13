@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66789f75-a2d6-447a-8884-818923ea8fb1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XSKdMtPbAX3Io43FaVn6QYFGED" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Tron-Pygame-master/Tron.py" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="tron" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tron" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="tron" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tron.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66789f75-a2d6-447a-8884-818923ea8fb1" name="Default Changelist" comment="" />
+      <created>1581034142589</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581034142589</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="424" y="230" width="1071" height="723" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581553341022">
+      <screen x="0" y="0" width="1920" height="1155" />
+    </state>
+    <state x="424" y="230" width="1071" height="723" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1155@0.0.1920.1155" timestamp="1581553341022" />
+    <state x="721" y="443" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1581126807347">
+      <screen x="0" y="0" width="1920" height="1155" />
+    </state>
+    <state x="721" y="443" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1155@0.0.1920.1155" timestamp="1581126807347" />
+    <state x="752" y="330" key="FileChooserDialogImpl" timestamp="1581553697272">
+      <screen x="0" y="0" width="1920" height="1155" />
+    </state>
+    <state x="752" y="330" key="FileChooserDialogImpl/0.0.1920.1155@0.0.1920.1155" timestamp="1581553697272" />
+    <state width="1897" height="192" key="GridCell.Tab.0.bottom" timestamp="1581623301411">
+      <screen x="0" y="0" width="1920" height="1155" />
+    </state>
+    <state width="1897" height="192" key="GridCell.Tab.0.bottom/0.0.1920.1155@0.0.1920.1155" timestamp="1581623301411" />
+    <state width="1897" height="192" key="GridCell.Tab.0.center" timestamp="1581623301409">
+      <screen x="0" y="0" width="1920" height="1155" />
+    </state>
+    <state width="1897" height="192" key="GridCell.Tab.0.center/0.0.1920.1155@0.0.1920.1155" timestamp="1581623301409" />
+    <state width="1897" height="192" key="GridCell.Tab.0.left" timestamp="1581623301409">
+      <screen x="0" y="0" width="1920" height="1155" />
+    </state>
+    <state width="1897" height="192" key="GridCell.Tab.0.left/0.0.1920.1155@0.0.1920.1155" timestamp="1581623301409" />
+    <state width="1897" height="192" key="GridCell.Tab.0.right" timestamp="1581623301410">
+      <screen x="0" y="0" width="1920" height="1155" />
+    </state>
+    <state width="1897" height="192" key="GridCell.Tab.0.right/0.0.1920.1155@0.0.1920.1155" timestamp="1581623301410" />
+    <state x="461" y="207" width="1007" height="741" key="SettingsEditor" timestamp="1581036131256">
+      <screen x="0" y="0" width="1920" height="1155" />
+    </state>
+    <state x="461" y="207" width="1007" height="741" key="SettingsEditor/0.0.1920.1155@0.0.1920.1155" timestamp="1581036131256" />
+    <state x="646" y="398" key="com.intellij.ide.util.TipDialog" timestamp="1581621210969">
+      <screen x="0" y="0" width="1920" height="1155" />
+    </state>
+    <state x="646" y="398" key="com.intellij.ide.util.TipDialog/0.0.1920.1155@0.0.1920.1155" timestamp="1581621210969" />
+    <state x="623" y="257" key="search.everywhere.popup" timestamp="1581119492772">
+      <screen x="0" y="0" width="1920" height="1155" />
+    </state>
+    <state x="623" y="257" key="search.everywhere.popup/0.0.1920.1155@0.0.1920.1155" timestamp="1581119492772" />
+  </component>
+</project>
